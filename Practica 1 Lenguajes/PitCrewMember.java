@@ -1,4 +1,7 @@
 public class PitCrewMember {
+
+    // Encapsulation
+    // attributes are encapsulated
     private String name;
     private String role;
 
@@ -7,6 +10,7 @@ public class PitCrewMember {
         this.role = role;
     }
 
+    // Getter and Setter
     public String getName() {
         return name;
     }

@@ -1,6 +1,9 @@
 public class TeamDriverB {
+    // Encapsulation
+    // attributes are encapsulated
     private PitCrewTeam pitCrewTeam;
 
+    // Constructor
     public void setPitCrewTeam(PitCrewTeam pitCrewTeam) {
         this.pitCrewTeam = pitCrewTeam;
     }

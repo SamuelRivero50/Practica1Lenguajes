@@ -2,6 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PitCrewTeam {
+
+    // Encapsulation
+    // attributes are encapsulated
     private List<PitCrewMember> pitCrewMembers;
 
     public PitCrewTeam() {

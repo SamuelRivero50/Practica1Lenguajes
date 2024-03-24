@@ -1,4 +1,4 @@
-# Practica1Lenguajes
+# Pr-ctica1Lenguajes
 
 Participants names:
 

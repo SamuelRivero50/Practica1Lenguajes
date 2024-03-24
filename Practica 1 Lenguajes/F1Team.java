@@ -1,3 +1,4 @@
+//Abstraction (ability to create a class with properties and methods)
 public class F1Team {
     private String name;
     private int foundationYear;
@@ -5,6 +6,7 @@ public class F1Team {
     private TeamDriverA teamDriverA;
     private TeamDriverB teamDriverB;
 
+    // Constructor
     public F1Team(String name, int foundationYear) {
         this.name = name;
         this.foundationYear = foundationYear;
@@ -13,6 +15,7 @@ public class F1Team {
         this.teamDriverB = new TeamDriverB();
     }
 
+    // Getter and Setter
     public String getName() {
         return name;
     }
