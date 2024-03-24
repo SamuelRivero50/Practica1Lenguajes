@@ -49,8 +49,6 @@ public class F1PitStop {
         teamDriverA.setPitCrewTeam(pitCrewTeam);
         teamDriverB.setPitCrewTeam(pitCrewTeam);
 
-        // Assuming that performTask method exists for TeamDriverA and TeamDriverB
-
         System.out.println("Driver A enters the pit stop\n");
         teamDriverA.performTask();
         System.out.println("");
